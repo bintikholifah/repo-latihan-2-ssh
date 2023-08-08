@@ -2,8 +2,6 @@ text 1 Binti
 
 tambah di line 3
 
-tambah 5 kholifah
+tambah 5 binti
 
 tambah 7
-
-tambah 5 binti
