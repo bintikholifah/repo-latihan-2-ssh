@@ -5,3 +5,5 @@ tambah di line 3
 tambah 5 binti
 
 test
+
+tambah 7
